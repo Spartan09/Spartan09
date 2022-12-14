@@ -8,6 +8,8 @@
 Spartan09/Spartan09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- Daily dev card -->
+<a href="https://app.daily.dev/HellFury09"><img src="https://api.daily.dev/devcards/90b5415df4614e53b479b17e0f789ef5.png?r=o9l" width="400" alt="Ayushman Singh Rathore's Dev Card"/></a>
 
 [![Ayushman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spartan09&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Spartan09)
 
