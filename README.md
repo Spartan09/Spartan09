@@ -11,4 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Ayushman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spartan09&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Spartan09&repo=temp-chat&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spartan09&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Spartan09&repo=temp-chat&show_owner=true&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
