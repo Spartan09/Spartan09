@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Spartan09/temp-chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Spartan09&repo=temp-chat&show_owner=true&theme=dark#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/Spartan09github-battle">
+<a href="https://github.com/Spartan09/github-battle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Spartan09&repo=github-battle&show_owner=true&theme=dark#gh-dark-mode-only" />
 </a>
 
