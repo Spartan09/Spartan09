@@ -13,4 +13,12 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spartan09&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Spartan09&repo=temp-chat&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Spartan09/temp-chat)
+
+<!-- Repo cards -->
+<a href="https://github.com/Spartan09/temp-chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Spartan09&repo=temp-chat&show_owner=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Spartan09github-battle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Spartan09&repo=github-battle&show_owner=true&theme=dark#gh-dark-mode-only" />
+</a>
+
