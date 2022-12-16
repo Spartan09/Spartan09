@@ -14,3 +14,5 @@
     <a href="https://leetcode.com/ayushsg0412/"><img width="48%" src="https://leetcode.card.workers.dev/ayushsg0412?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <a href="https://github.com/Spartan09"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spartan09&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Spartan09&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
