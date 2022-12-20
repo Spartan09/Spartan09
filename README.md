@@ -1,22 +1,24 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
-<p align="center">
-    <h1 align="center">✩&emsp;ayushman&emsp;✩</h1>
-</p>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
-<br>
-<p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=ayushsg0412&color=grey">
-</p>
-<p align="center">
-    <a href="https://leetcode.com/ayushsg0412/"><img width="48%" src="https://leetcode.card.workers.dev/ayushsg0412?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    <a href="https://github.com/Spartan09"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spartan09&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
-</p>
+- 👋 Hi, I’m Ayushman
+- 👀 I’m interested in anything rust, typescript
+- 🌱 I’m currently learning MERN, Rust
+- 💞️ I’m looking to collaborate on Rust projects
+- 📫 How to reach me ayushsgr117@gmail.com
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Spartan09&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!---
+Spartan09/Spartan09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+[![Ayushman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spartan09&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Spartan09)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spartan09&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Spartan09&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Repo cards -->
+<a href="https://github.com/Spartan09/temp-chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Spartan09&repo=temp-chat&show_owner=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Spartan09/github-battle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Spartan09&repo=github-battle&show_owner=true&theme=dark#gh-dark-mode-only" />
+</a>
+    
